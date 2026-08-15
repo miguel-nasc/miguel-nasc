@@ -4,7 +4,6 @@
 
 <img src="./header.svg" alt="Header" />
 
-<a href="mailto:miguelnsctsantos@gmail.com">miguelnsctsantos@gmail.com</a>
 
 </div>
 
