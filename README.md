@@ -2,7 +2,7 @@
 
 <h1>Miguel Nascimento</h1>
 
-<img src="./header.svg" alt="Desenvolvedor Back-End" />
+<img src="./header.svg" />
 
 
 </div>
