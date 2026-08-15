@@ -2,9 +2,8 @@
 
 <h1>Miguel Nascimento</h1>
 
-<img src="./header.svg" alt="Back-end" />
+<img src="./header.svg" alt="Desenvolvedor Back-End" />
 
-<a href="mailto:miguelnsctsantos@gmail.com">miguelnsctsantos@gmail.com</a>
 
 </div>
 
