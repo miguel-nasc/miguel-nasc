@@ -9,11 +9,11 @@
 
 <br>
 
-Sou estudante de Sistemas de Informação (4° período, UFPB) e estou construindo minha base em desenvolvimento back-end com Java. Gosto de entender como uma API funciona por baixo dos panos — autenticação, banco de dados, estrutura do código — e não só fazer funcionar.
+  Sou estudante de Sistemas de Informação (4° período, UFPB) e estou construindo minha base em desenvolvimento back-end com Java. Gosto de entender como uma API funciona por baixo dos panos (autenticação, banco de dados, estrutura do código) e não só fazer funcionar.
 
-- 🎓 Sistemas de Informação (4° período) — UFPB
-- 🌱 Aprofundando em Spring Boot (curso Érudio, em andamento)
-- 💼 Em busca de estágio ou vaga júnior em back-end
+- Sistemas de Informação (4° período) — UFPB
+- Aprofundando em Spring Boot (curso Érudio, em andamento)
+- Em busca de estágio ou vaga júnior em back-end
 
 <br>
 
