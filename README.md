@@ -1,7 +1,5 @@
 <div align="center">
 
-<h1>Miguel Nascimento</h1>
-
 <img src="./header.svg" />
 
 
