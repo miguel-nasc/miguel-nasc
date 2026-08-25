@@ -11,7 +11,7 @@
 
 - Sistemas de Informação — UFPB
 - Aprofundando em Spring Boot (curso em andamento)
-- Em busca de estágio ou vaga júnior em back-end
+- Em busca de estágio ou vaga júnior
 
 <br>
 
