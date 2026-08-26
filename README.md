@@ -31,8 +31,8 @@
 
 ### Projetos em destaque
 
-**[combinaí-agendamentos](https://github.com/miguel-nasc/agendamentos-full)** -- Em andamento --
-Projeto com React e Spring Boot de agendamentos de sala, com autenticação JWT, Spring Security.
+**[combinaí-agendamentos](https://github.com/miguel-nasc/agendamentos-full)** 
+Projeto com React e Spring Boot de agendamentos de sala, com autenticação JWT, Spring Security. (Em andamento)
 
 **[api-carros](https://github.com/miguel-nasc/api-carros)**
 API REST para gerenciamento de veículos, com autenticação JWT, Spring Security, paginação e documentação via Swagger.
